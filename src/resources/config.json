@@ -1,0 +1,50 @@
+{
+  "0": {
+    "cleanname": "Witch Trials",
+    "words": [
+      "Bridget Bishop",
+      "Rebecca Nurse",
+      "Sarah Good",
+      "Elizabeth Howe",
+      "Susannah Martin",
+      "Sarah Wildes",
+      "George Burroughs",
+      "George Jacobs Sr",
+      "Martha Carrier",
+      "John Proctor",
+      "John Willard",
+      "Martha Corey",
+      "Mary Eastey",
+      "Mary Parker",
+      "Alice Parker",
+      "Ann Pudeator",
+      "Wilmot Redd",
+      "Margaret Scott",
+      "Samuel Wardwell Sr.",
+      "Giles Corey"
+    ]
+  },
+  "1": {
+    "cleanname": "US Cabinets",
+    "words": [
+      "Admin. of EPA",
+      "Admin. of SBA",
+      "Attorney General",
+      "Dir. of NI",
+      "Dir. of the CIA",
+      "Dir. of the OMB",
+      "Sec. of Agriculture",
+      "Sec. of Commerce",
+      "Sec. of Education",
+      "Sec. of Energy",
+      "Sec. of HHS",
+      "Sec. of HUD",
+      "Sec. of the Interior",
+      "Sec. of Labor",
+      "Sec. of State",
+      "Sec. of Transport.",
+      "Sec. of the Treasury",
+      "Sec. of VA"
+    ]
+  }
+}
